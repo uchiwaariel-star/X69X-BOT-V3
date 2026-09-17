@@ -25,12 +25,12 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100080077652459",
-    "61582740072618",
-    "61589556081157"
+    "61589556081157",
+    "",
+    ""
   ],
   "developer": [
-    "100080077652459",
+    "61589556081157",
     "",
     "",
     "",
@@ -79,8 +79,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Angela bot Aks",
-  "prefix": "!",
+  "nickNameBot": "itachi Uchiwa",
+  "prefix": "🍡",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Hinata:W2fNh.H9iWFU22F@cluster0.cyattib.mongodb.net/OZADNOOB1?retryWrites=true&w=majority&appName=Cluster0",
